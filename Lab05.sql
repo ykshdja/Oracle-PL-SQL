@@ -1,9 +1,6 @@
 /**
 * Yash Khanduja, 000826385
 * Lab05.sql
-* I, Yash Khanduja, 000826385, certify that this material is my original work. No other person's work has been used without due acknowledgment and I have not made my work available to anyone else.
-* 29th-Oct-2020
-*
 */
 USE CHDB
 
@@ -88,7 +85,7 @@ SELECT physician_id,p.first_name, p.last_name, specialty
 
 /**
 *
-*List the patient id, patient first name, patient last name, nursing unit and primary diagnosis of any current admission (no discharge date) whose attending physician’s specialty is Internist.
+*List the patient id, patient first name, patient last name, nursing unit and primary diagnosis of any current admission (no discharge date) whose attending physicianâ€™s specialty is Internist.
 *
 */
 
