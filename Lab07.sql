@@ -2,10 +2,6 @@
 /*******************************************************
 Script: Lab07.sql
 Author: Yash Khanduja
-Date: Nov-25th, 2020
-I, Yash Khanduja, student number 000826385, certify that this material is my original work. 
-No other person's work has been used without due acknowledgment and I have not made my work available to anyone else.
-********************************************************/
 
 -- Setting NOCOUNT ON suppresses completion messages for each INSERT
 SET NOCOUNT ON
