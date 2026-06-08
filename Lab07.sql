@@ -2,6 +2,7 @@
 /*******************************************************
 Script: Lab07.sql
 Author: Yash Khanduja
+*****/
 
 -- Setting NOCOUNT ON suppresses completion messages for each INSERT
 SET NOCOUNT ON
